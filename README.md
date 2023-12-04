@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stealingudc&label=Profile%20views&color=0e75b6&style=flat" alt="stealingudc" /> </p>
 
-- 🔭 I’m currently working on [BjorgArt](https://bjorgart.com)
+- 🔭 I’m currently working on [BjorgArt](bjorgart.vercel.app)
 
 - 🌱 I’m currently learning **Next.js, Angular, Express**
 
