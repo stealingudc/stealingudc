@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vladimir-Dragos Damian</h1>
-<h3 align="center">A student from Romania making personal projects in my spare time.</h3>
+<h3 align="center">A student from Romania building projects in my spare time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stealingudc&label=Profile%20views&color=0e75b6&style=flat" alt="stealingudc" /> </p>
 
 - 🔭 I’m currently working on [BjorgArt](https://bjorgart.vercel.app)
 
-- 🌱 I’m currently learning **Next.js, Angular, Express**
+- 🌱 I’m currently learning **Angular**.
+
+- 🎓 I'm currently studying Electrical Engineering and Computer Science.
 
 - 👨‍💻 All of my projects are available at [github.com/stealingudc](github.com/stealingudc)
 
