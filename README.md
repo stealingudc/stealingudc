@@ -3,5 +3,11 @@
 "Electrical Engineering & Computer Science" Undergraduate @ University of Transylvania
 
 Currently working on **everything all at the same time**. 
+<br /><br /><br /><br /><br />
 
-*I use Arch, by the way :3*
+  [cool stuff here CLICK HERE CLICK NOW](https://gist.github.com/stealingudc) (gists)
+
+  *I use Arch, by the way :3*
+
+
+
